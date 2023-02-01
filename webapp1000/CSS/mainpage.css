@@ -1,0 +1,22 @@
+﻿.Background {
+    background-color: Black;
+    opacity: 0.8;
+}
+
+.Popup {
+    background-color: #FFFFFF;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 840px;
+    height: 640px;
+}
+
+body {
+    color: green;
+}
+.pic{
+     display:flex;
+ }

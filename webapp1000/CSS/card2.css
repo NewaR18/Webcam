@@ -1,0 +1,60 @@
+﻿.name1 {
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+}
+
+.id1 {
+    display: flex;
+    justify-content: space-between;
+}
+body {
+    background-image: url('hello.jpg');
+}
+.id {
+    width: 500px;
+    height: 300px;
+    border: 1px solid #012970;
+    padding: 20px;
+    background-color:white;
+}
+
+.hell {
+    width: 200px;
+    height: 160px;
+    margin-left: 10px;
+}
+
+div {
+    font-family: 'Bell MT';
+    color: #012970;
+}
+
+#com {
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+}
+
+#loc {
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+}
+
+.vir {
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+
+.content {
+    color: black;
+    margin-left: 3px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    margin-top:200px;
+}
